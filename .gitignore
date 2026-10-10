@@ -1,0 +1,10 @@
+.env
+
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+.venv
+
+.ruff_cache

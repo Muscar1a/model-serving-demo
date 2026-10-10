@@ -1,0 +1,6 @@
+requests
+pandas
+sdv
+kafka-python-ng
+pyspark
+kfp
